@@ -1,0 +1,6 @@
+/* Paste this code at the end of your base.css file */
+
+.header__icon--cart .icon-cart-new {
+  width: 2.4rem;
+  height: auto;
+}
